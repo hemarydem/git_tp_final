@@ -70,7 +70,7 @@ Toutes les missions peuvent être évidemment réalisées en parallèle par les 
 
 Le **collaborateur 1** est missionné par le client pour ajouter un peu de gaïté au site très morose.
 
-Il va devoir effectuer **tout son travail** sur une branche nommée **"feature/collab-1"**.
+Il va devoir effectuer **tout son travail** sur une branche nommée **git **.
 
 Le **collaborateur 1** devra : 
 * Ajouter un fichier de style CSS **styles.css** et le lier au fichier **index.html** du projet.
